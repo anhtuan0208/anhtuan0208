@@ -89,17 +89,17 @@ Là một người có đam mê lớn với du lịch , khám phá những vùng
 
 **Địa điểm:** Hà Nội & Miền Bắc Việt Nam
 
-**Mô tả công việc:**
-Tiếp nhận và nghiên cứu lộ trình tour, phối hợp chặt chẽ với bộ phận điều hành để đảm bảo chương trình
+##Mô tả công việc:
+- Tiếp nhận và nghiên cứu lộ trình tour, phối hợp chặt chẽ với bộ phận điều hành để đảm bảo chương trình
 diễn ra đúng kế hoạch và kịp thời gian.
 Đón tiếp, hỗ trợ và tiễn khách chu đáo tại các điểm tập kết, sân bay và khách sạn — tạo ấn tượng chuyên
 nghiệp ngay từ lần gặp đầu tiên.
-Thuyết minh trực tiếp tại các điểm du lịch nổi tiếng tại Hà Nội như Văn Miếu – Quốc Tử Giám, Hồ Hoàn
+- Thuyết minh trực tiếp tại các điểm du lịch nổi tiếng tại Hà Nội như Văn Miếu – Quốc Tử Giám, Hồ Hoàn
 Kiếm, Lăng Chủ tịch Hồ Chí Minh, Phố cổ Hà Nội... với nội dung sinh động, chính xác và phù hợp với từng
 đối tượng khách.
-Quản lý đoàn khách trong suốt hành trình, đảm bảo an toàn, đúng giờ và duy trì không khí thoải mái, gắn
+- Quản lý đoàn khách trong suốt hành trình, đảm bảo an toàn, đúng giờ và duy trì không khí thoải mái, gắn
 kết trong đoàn.
-Hỗ trợ khách hàng xử lý các phát sinh thực tế như thay đổi lịch trình, sức khỏe, ngôn ngữ và nhu cầu cá
+- Hỗ trợ khách hàng xử lý các phát sinh thực tế như thay đổi lịch trình, sức khỏe, ngôn ngữ và nhu cầu cá
 nhân — được nhiều khách đánh giá cao về sự nhiệt tình và tận tâm.
 ---
 
