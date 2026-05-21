@@ -15,7 +15,7 @@
 
 **Ngày sinh:** 02-08-2001  
 **Giới tính:** Nam  
-**Địa chỉ:** Văn Hốc, Đông Ngạc, Hà Nội  
+**Địa chỉ:** Văn Hội, Đông Ngạc, Hà Nội  
 
 ---
 
@@ -35,7 +35,7 @@ nguyenanhtuan76114@gmail.com
 
 ### 📋 Mục Tiêu Nghề Nghiệp
 
-Tôi mong muốn trở thành hướng dẫn viên du lịch chuyên nghiệp, nơi tôi có thể kết hợp tính yêu thích con người và niềm đam mê khám phá với khách hàng. Tôi hướng đến những hành trình chân thực được ưu tiên cao nhất và hành động cùng khách trong từng chuyến đi – để mỗi du khách đều cảm thấy được lẩn nhập đầu tiên và hiểu biết sâu sắc về văn hóa Việt.
+Tôi mong muốn trở thành hướng dẫn viên du lịch chuyên nghiệp, nơi tôi có thể kết hợp sự yêu thích  và niềm đam mê khám phá nhiều địa diểm mới với khách hàng. Tôi hướng đến những hành trình chân thực được ưu tiên cao nhất và hành động cùng khách trong từng chuyến đi – để mỗi du khách đều cảm thấy được và hiểu biết sâu sắc về văn hóa Việt.
 
 ---
 
@@ -52,7 +52,6 @@ Trường CĐ Y Tế Hưng Yên
 
 - **Xử lý tình huống khẩn cấp**
 - **Truyền tải văn hóa**
-- **Giao tiếp đa dân tộc**
 - **Quản lý nhóm**
 - **Hướng dẫn du lịch**
 - **First Aid**
@@ -61,7 +60,8 @@ Trường CĐ Y Tế Hưng Yên
 
 ### 📋 Sở Thích
 
-Là một người có đam mê lớn với du lịch, khám phá những vùng đất mới và tìm hiểu các nên văn hóa bản địa. Bên cạnh đó, tôi cũng duy trì hình thành thể chất thông qua chạy bộ và bơi lơi.
+Là một người có đam mê lớn với du lịch , khám phá những vùng đất mới và tìm hiểu các nền văn hóa bản
+địa . Bên cạnh đó ,tôi cũng duy trì lối sống lành mạnh thông qua chạy bộ và bơi lội.
 
 - ✈️ Traveling
 - 🏃 Running
@@ -90,23 +90,28 @@ Là một người có đam mê lớn với du lịch, khám phá những vùng 
 **Địa điểm:** Hà Nội & Miền Bắc Việt Nam
 
 **Mô tả công việc:**
-Tiếp nhận và nghiên cứu từng tour, phối hợp chặt chẽ với bộ phận điều hành để đảm bảo chương trình nghiệp vụ ngày tư lên góp phần xây dựng chính sách du lịch bền vững tại các điểm du lịch.
-
-- Thuyêt minh trực tiếp các điểm du lịch nổi tiếng tại Hà Nội như Văn Miếu - Quốc Tử Giám, Lăng Chủ tịch Hồ Chí Minh, Phố Cổ Hà Nội, Hồ Hoàn Kiếm, Lạch Tray...
-- Quản lý tour gộp hành trình, đảm bảo an toàn, đúng giờ không thiếu mất, giải quyết các chỉnh sửa liên quan.
-
+Tiếp nhận và nghiên cứu lộ trình tour, phối hợp chặt chẽ với bộ phận điều hành để đảm bảo chương trình
+diễn ra đúng kế hoạch và kịp thời gian.
+Đón tiếp, hỗ trợ và tiễn khách chu đáo tại các điểm tập kết, sân bay và khách sạn — tạo ấn tượng chuyên
+nghiệp ngay từ lần gặp đầu tiên.
+Thuyết minh trực tiếp tại các điểm du lịch nổi tiếng tại Hà Nội như Văn Miếu – Quốc Tử Giám, Hồ Hoàn
+Kiếm, Lăng Chủ tịch Hồ Chí Minh, Phố cổ Hà Nội... với nội dung sinh động, chính xác và phù hợp với từng
+đối tượng khách.
+Quản lý đoàn khách trong suốt hành trình, đảm bảo an toàn, đúng giờ và duy trì không khí thoải mái, gắn
+kết trong đoàn.
+Hỗ trợ khách hàng xử lý các phát sinh thực tế như thay đổi lịch trình, sức khỏe, ngôn ngữ và nhu cầu cá
+nhân — được nhiều khách đánh giá cao về sự nhiệt tình và tận tâm.
 ---
 
 ## 🌟 ĐIỂM MẠNH
 
 ### XỬ LÝ TÌNH HUỐNG KHẮN CẤP
 
-Có khả năng nhận biết và xử lý các tình huống khắn khất như say nắng, kiệt sức do thời tiết nắng nóng, biết được do thời tiết, xử lý vết thương hở, có định hóa thương xương khớp.
+Có khả năng nhận biết và xử lý các tình huống khẩn cấp như say nắng, kiệt sức do thời tiết nắng nóng, xử lý vết thương hở, có định chấn thương xương khớp.
 
 ### TRUYỀN TẢI VĂN HÓA
 
-Hòa động, có ở và luôn sẵn sàng chia sẻ kiến thức là về lịch sử du khách một cách dễ hiểu, sinh động. Có hiểu biết sâu sắc đối với du lịch máy hàng lên họng lão nhiếp giáo dục học tranh...
-
+Hòa động, có ở và luôn sẵn sàng chia sẻ kiến thức là về lịch sử du khách một cách dễ hiểu, sinh động. 
 ### TIẾNG ANH GIAO TIẾP
 
 Tiếng Anh giao tiếp truyền tốt.
@@ -119,9 +124,6 @@ Tiếng Anh giao tiếp truyền tốt.
 </table>
 ---
 
-## ✨ VỀ TÔI
-
-Là một người có đam mê lớn với du lịch, khám phá những vùng đất mới và tìm hiểu các nên văn hóa bản địa. Bên cạnh đó, tôi cũng duy trì hình thành thật thông qua chạy bộ và bơi lơi.
 
 ---
 
