@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 NGUYỄN ANH TUẤN
-## Hướng Dẫn Viên Du Lịch Chuyên Nghiệp | Professional Tour Guide
+## Hướng Dẫn Viên Du Lịch | Professional Tour Guide
 
 </div>
 
@@ -9,11 +9,13 @@
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top" style="border-right: 2px solid #ddd; padding-right: 20px;">
+<td width="40%" valign="top" style="border-right: 2px solid #ddd; padding-right: 20px;">
 
-### 📋 Mục Tiêu Nghề Nghiệp
+### 👤 Thông Tin Cá Nhân
 
-**Content Leader với 6 năm kinh nghiệm khám phá & quản lý tour, có 40% tăng trưởng Organic Traffic và nhận giải thưởng từ khách hàng. Quản lý đội tour 10+ hướng dẫn viên, xây dựng CRM/Email Marketing cho tour operator, tăng doanh thu từ 2-3 lần.**
+**Ngày sinh:** 02-08-2001  
+**Giới tính:** Nam  
+**Địa chỉ:** Văn Hốc, Đông Ngạc, Hà Nội  
 
 ---
 
@@ -25,204 +27,120 @@ nguyenanhtuan76114@gmail.com
 📱 **Điện Thoại**  
 0964 497 167
 
-📍 **Địa Chỉ**  
-Hà Nội, Việt Nam
-
 🌐 **Ngôn Ngữ**  
 🇻🇳 Vietnamese - Native  
 🇬🇧 English - IELTS 6.0
 
 ---
 
-### 🛠️ Kỹ Năng Chính
+### 📋 Mục Tiêu Nghề Nghiệp
 
-**Tour Management**  
-██████████ 100%
-
-**Communication**  
-██████████ 100%
-
-**Cultural Storytelling**  
-██████████ 100%
-
-**Emergency Handling**  
-██████████ 100%
-
-**English Speaking**  
-████████░░ 80%
-
-**Group Management**  
-██████████ 100%
+Tôi mong muốn trở thành hướng dẫn viên du lịch chuyên nghiệp, nơi tôi có thể kết hợp tính yêu thích con người và niềm đam mê khám phá với khách hàng. Tôi hướng đến những hành trình chân thực được ưu tiên cao nhất và hành động cùng khách trong từng chuyến đi – để mỗi du khách đều cảm thấy được lẩn nhập đầu tiên và hiểu biết sâu sắc về văn hóa Việt.
 
 ---
 
-### 🎓 Học Vấn
+### 🎓 HỌC VĂN
 
+**2019 - 2023**  
 **Cao Đẳng Điều Dưỡng**  
 Trường CĐ Y Tế Hưng Yên  
-2019 - 2023
+*Điều Dưỡng*
 
-**Chứng Chỉ**
-- IELTS 6.0
-- First Aid & Emergency
-- Certified Tour Guide
+---
+
+### 🛠️ KỸ NĂNG CHÍNH
+
+- **Xử lý tình huống khẩn cấp**
+- **Truyền tải văn hóa**
+- **Giao tiếp đa dân tộc**
+- **Quản lý nhóm**
+- **Hướng dẫn du lịch**
+- **First Aid**
 
 ---
 
 ### 📋 Sở Thích
 
-✈️ Traveling  
-🏃 Running  
-🏊 Swimming  
-📚 Learning Culture  
-🎥 Storytelling
+Là một người có đam mê lớn với du lịch, khám phá những vùng đất mới và tìm hiểu các nên văn hóa bản địa. Bên cạnh đó, tôi cũng duy trì hình thành thể chất thông qua chạy bộ và bơi lơi.
+
+- ✈️ Traveling
+- 🏃 Running
+- 🏊 Swimming
+- 📚 Learning Culture
+- 🎥 Storytelling
 
 ---
 
-### 🌟 Danh Hiệu
+### 🏅 CHỨNG CHỈ
 
-**2024**  
-Top 5 Tour Guide Profile
-
-**2023**  
-Best Client Satisfaction
-
-**2023**  
-Google Digital Garage
-
-**2020**  
-Meta Certified Marketing
+| Năm | Chứng Chỉ |
+|---|---|
+| **2025** | IELTS 6.0 |
+| **2026** | Thẻ Hướng Dẫn Quốc Tế |
 
 </td>
 
-<td width="65%" valign="top" style="padding-left: 20px;">
+<td width="60%" valign="top" style="padding-left: 20px;">
 
-## 💼 Kinh Nghiệm Làm Việc
+## 💼 KINH NGHIỆM LÀM VIỆC
 
-### **Hướng Dẫn Viên Du Lịch & Tour Manager**
-**Hanoi & Northern Vietnam | 2024 - Nay**
+### **2024 - Hiện nay**
+#### Hướng Dẫn Viên Tự Do | Hướng Dẫn Viên du lịch
 
-- Quản lý **50+ tour chuyên nghiệp** cho khách quốc tế từ châu Âu, châu Á, Bắc Mỹ
-- Đạt **98% tỉ lệ hài lòng khách hàng** với đánh giá 5 sao trên các nền tảng du lịch
-- Phối hợp **logistics cho nhóm 5-50+ khách** với quy trình chuyên nghiệp
-- Xử lý **tình huống khẩn cấp & crisis management** an toàn, hiệu quả
-- Tạo **content tour & itinerary** hấp dẫn, tăng doanh thu 40%
+**Địa điểm:** Hà Nội & Miền Bắc Việt Nam
 
-**Trách Nhiệm Chính:**
-- Tour planning & itinerary development
-- Bilingual guiding (Vietnamese/English)
-- Safety & emergency response management
-- Client relationship & post-tour engagement
-- Revenue generation & booking coordination
+**Mô tả công việc:**
+Tiếp nhận và nghiên cứu từng tour, phối hợp chặt chẽ với bộ phận điều hành để đảm bảo chương trình nghiệp vụ ngày tư lên góp phần xây dựng chính sách du lịch bền vững tại các điểm du lịch.
+
+- Thuyêt minh trực tiếp các điểm du lịch nổi tiếng tại Hà Nội như Văn Miếu - Quốc Tử Giám, Lăng Chủ tịch Hồ Chí Minh, Phố Cổ Hà Nội, Hồ Hoàn Kiếm, Lạch Tray...
+- Quản lý tour gộp hành trình, đảm bảo an toàn, đúng giờ không thiếu mất, giải quyết các chỉnh sửa liên quan.
+- Một số công việc khác: hỗ trợ đội Nội dung tour, sắc hành yêu dề đặt kế hoạch hành trình, sắc hành yêu hành kế hoạch hành trình và phát triển tour mới.
 
 ---
 
-## 🏥 Điểm Mạnh Đặc Biệt
+## 🌟 ĐIỂM MẠNH
 
-### Healthcare Background - Competitive Advantage Độc Nhất
+### XỬ LÝ TÌNH HUỐNG KHẮN KẬP
 
-Nền tảng điều dưỡng cho phép xử lý tình huống y tế trong tour:
+Có khả năng nhận biết và xử lý các tình huống khắn khất như say nắng, kiệt sức do thời tiết nắng nóng, biết được do thời tiết, xử lý vết thương hở, có định hóa thương xương khớp.
 
-✅ **Say nắng & Kiệt sức** → Nhận biết sớm, xử lý nhanh  
-✅ **Vết thương & Chấn thương** → First aid chuyên nghiệp  
-✅ **Đánh giá rủi ro sức khỏe** → An toàn 100% cho du khách  
-✅ **Bảo vệ pháp lý** → Giảm rủi ro cho tour operator  
+### TRUYỀN TẢI VĂN HÓA
 
-🎯 **Tạo giá trị vượt trội** cho tour operator & công ty du lịch
+Hòa động, có ở và luôn sẵn sàng chia sẻ kiến thức là về lịch sử du khách một cách dễ hiểu, sinh động. Có hiểu biết sâu sắc đối với du lịch máy hàng lên họng lão nhiếp giáo dục học tranh...
 
----
+### TIẾNG ANH GIAO TIẾP
 
-## 🏛️ Điểm Đến Chuyên Miên
-
-**UNESCO Heritage Sites:**
-- 📍 Văn Miếu (Temple of Literature)
-- 📍 Hồ Hoàn Kiếm (Hoan Kiem Lake)
-- 📍 Lăng Chủ Tịch Hồ Chí Minh
-- 📍 Phố Cổ Hà Nội (Old Quarter)
-- 📍 Văn hóa & Đời sống Việt Nam
-
-**Tour Themes:**
-🏛️ Historical & Cultural  
-🍜 Culinary Heritage  
-🏘️ Community Experience  
-🎨 Local Crafts  
-🌿 Nature & Sustainability
+Tiếng Anh giao tiếp truyền tốt.
 
 ---
 
-## 🌟 Tính Cách & Giá Trị Nghề Nghiệp
+## 🎯 MỤC TIÊU PHÁT TRIỂN
 
-✅ **Hòa đồng & Cởi mở** – Giao tiếp tốt, thân thiện  
-✅ **Bình tĩnh** – Xử lý tình huống phức tạp, sáng suốt  
-✅ **Năng lượng tích cực** – Tạo cảm xúc tốt cho du khách  
-✅ **Có trách nhiệm** – Cam kết chất lượng & an toàn  
-✅ **Chuyên nghiệp** – Tuân thủ quy trình, chuẩn mực cao
-
----
-
-## 🤝 Cơ Hội Hợp Tác
-
-Tìm kiếm partnership với:
-- ✓ Tour operators quốc tế
-- ✓ Travel agencies
-- ✓ Corporate event planners
-- ✓ Luxury travel companies
-- ✓ Hotel concierge services
-- ✓ Educational programs
-
----
-
-## 💡 Lợi Thế Cạnh Tranh
-
-✨ **Chất Lượng** – 98%+ khách hàng hài lòng  
-✨ **An Toàn** – Healthcare-backed assurance  
-✨ **Chuyên Nghiệp** – Kinh nghiệm 6+ năm  
-✨ **Authentic** – Kiến thức sâu về văn hóa  
-✨ **Revenue** – Tour repeat & referral cao
+Là một người có đam mê lớn với du lịch, khám phá những vùng đất mới và tìm hiểu các nên văn hóa bản địa. Bên cạnh đó, tôi cùng duy trì hình thành thông qua chạy bộ và bơi lơi.
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## ✨ VỀ TÔI
 
-Tôi là một **hướng dẫn viên du lịch chuyên nghiệp** với niềm đam mê dành cho con người, văn hóa và những hành trình khám phá. Mỗi chuyến đi là **cơ hội kết nối cảm xúc, chia sẻ câu chuyện** và tạo nên **kỷ niệm đáng nhớ** cho du khách.
-
-Với nền tảng điều dưỡng + kinh nghiệm tour chuyên nghiệp, tôi mang **lợi thế độc nhất**: **an toàn + chất lượng + giàu cảm xúc**.
-
----
-
-## 📚 CHỨNG CHỈ HỌC VĂN
-
-| Năm | Chứng Chỉ |
-|---|---|
-| 2023 | Cao Đẳng Điều Dưỡng (Hung Yen Medical College) |
-| 2023 | First Aid & Emergency Response Certified |
-| 2022 | IELTS 6.0 (English Proficiency) |
-| 2022 | Google Digital Garage Certificate |
-| 2020 | Meta Certified Digital Marketing Associate |
-
----
-
-## 📞 LIÊN HỆ & HỢP TÁC
-
-📧 **Email:** nguyenanhtuan76114@gmail.com  
-📱 **Điện Thoại:** 0964 497 167  
-📍 **Vị Trí:** Hà Nội, Việt Nam
+Là một người có đam mê lớn với du lịch, khám phá những vùng đất mới và tìm hiểu các nên văn hóa bản địa. Bên cạnh đó, tôi cũng duy trì hình thành thật thông qua chạy bộ và bơi lơi.
 
 ---
 
 <div align="center">
 
-### 🚀 Sẵn Sàng Cộng Tác
+### 📞 LIÊN HỆ & HỢP TÁC
 
-**Liên hệ để trao đổi & xây dựng partnership lâu dài!**
+**📧 Email:** nguyenanhtuan76114@gmail.com  
+**📱 Điện Thoại:** 0964 497 167  
+**📍 Vị Trí:** Hà Nội, Việt Nam
+
+**Sẵn sàng cộng tác với các công ty du lịch, tour operator, và travel agencies!**
 
 ---
 
-*Last Updated: May 2026*  
-*References & detailed portfolio available upon request*
+*Last Updated: May 2026*
 
 </div>
