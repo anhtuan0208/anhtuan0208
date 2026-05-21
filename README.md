@@ -107,7 +107,7 @@ nhân — được nhiều khách đánh giá cao về sự nhiệt tình và t�
 
 ### XỬ LÝ TÌNH HUỐNG KHẮN CẤP
 
-Có khả năng nhận biết và xử lý các tình huống khẩn cấp như say nắng, kiệt sức do thời tiết nắng nóng, xử lý vết thương hở, có định chấn thương xương khớp.
+Có khả năng nhận biết và xử lý các tình huống khẩn cấp như say nắng, kiệt sức do thời tiết nắng nóng, xử lý vết thương hở, cố định chấn thương xương khớp.
 
 ### TRUYỀN TẢI VĂN HÓA
 
