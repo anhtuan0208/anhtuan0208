@@ -94,13 +94,12 @@ Tiếp nhận và nghiên cứu từng tour, phối hợp chặt chẽ với b�
 
 - Thuyêt minh trực tiếp các điểm du lịch nổi tiếng tại Hà Nội như Văn Miếu - Quốc Tử Giám, Lăng Chủ tịch Hồ Chí Minh, Phố Cổ Hà Nội, Hồ Hoàn Kiếm, Lạch Tray...
 - Quản lý tour gộp hành trình, đảm bảo an toàn, đúng giờ không thiếu mất, giải quyết các chỉnh sửa liên quan.
-- Một số công việc khác: hỗ trợ đội Nội dung tour, sắc hành yêu dề đặt kế hoạch hành trình, sắc hành yêu hành kế hoạch hành trình và phát triển tour mới.
 
 ---
 
 ## 🌟 ĐIỂM MẠNH
 
-### XỬ LÝ TÌNH HUỐNG KHẮN KẬP
+### XỬ LÝ TÌNH HUỐNG KHẮN CẤP
 
 Có khả năng nhận biết và xử lý các tình huống khắn khất như say nắng, kiệt sức do thời tiết nắng nóng, biết được do thời tiết, xử lý vết thương hở, có định hóa thương xương khớp.
 
