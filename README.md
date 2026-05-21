@@ -113,9 +113,6 @@ Tiếng Anh giao tiếp truyền tốt.
 
 ---
 
-## 🎯 MỤC TIÊU PHÁT TRIỂN
-
-Là một người có đam mê lớn với du lịch, khám phá những vùng đất mới và tìm hiểu các nên văn hóa bản địa. Bên cạnh đó, tôi cùng duy trì hình thành thông qua chạy bộ và bơi lơi.
 
 </td>
 </tr>
