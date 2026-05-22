@@ -114,7 +114,7 @@ Có khả năng nhận biết và xử lý các tình huống khẩn cấp như 
 Hòa động, có ở và luôn sẵn sàng chia sẻ kiến thức là về lịch sử du khách một cách dễ hiểu, sinh động. 
 ### TIẾNG ANH GIAO TIẾP
 
-Tiếng Anh giao tiếp truyền tốt.
+Tiếng Anh giao tiếp tốt.
 
 ---
 
